@@ -6,6 +6,6 @@ public class App{
 		f.setBounds(100,100,200,200);
 		f.setVisible(true);
 		f.setDefaultCloseOperation(f.EXIT_ON_CLOSE);
-		System.out.println("JFrame");
+		System.out.println("App Starting.....");
 	}
 }
